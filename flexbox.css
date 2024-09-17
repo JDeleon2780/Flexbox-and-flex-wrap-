@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+
+.container {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+
+.uno {
+    background: #F13929;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.dos {
+    background: #7250FF;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.tres {
+    background: #01D0FB;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
